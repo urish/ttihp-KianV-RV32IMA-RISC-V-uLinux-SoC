@@ -19,6 +19,8 @@
   
     "//": "Increase this if you are getting 'Synthesized memory size exceeds maximum allowed bits' error:",
     "SYNTH_MEMORY_MAX_BITS": 65536,
+
+    "ABC_AREA": 1,
   
     "//": "Configuration docs: https://openroad-flow-scripts.readthedocs.io/en/latest/user/FlowVariables.html",
   
